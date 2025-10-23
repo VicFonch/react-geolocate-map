@@ -1,10 +1,10 @@
-# 🗺️ React Leaflet Map
+# React Leaflet Map
 
 A simple React app showing how to use **Leaflet** with **React** through [`react-leaflet`](https://react-leaflet.js.org/). It displays an interactive map with a marker that updates to your current location.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Interactive map using **OpenStreetMap** tiles
 - Detects your location on click
@@ -13,7 +13,7 @@ A simple React app showing how to use **Leaflet** with **React** through [`react
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 ```bash
 # Clone the project
@@ -26,7 +26,7 @@ npm install
 
 ---
 
-## ▶️ Run the app
+## Run the app
 
 ```bash
 npm run dev
